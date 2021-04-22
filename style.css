@@ -1,0 +1,17 @@
+html {scroll-behavior: smooth;}
+body {font-family: 'Noto Sans SC', sans-serif; color: #323132;}
+
+.srp-nav {background-color: #0b1431; color: #efefef;}
+.srp-nav a { color: #efefef;}
+.srp-logo {font-size: 2rem;}
+.srp-hero {background-color: #0b1431; color: #efefef; padding: 3rem 0;}
+.srp-hero-sub {background-color: #0b1431; color: #efefef; padding: 6rem 0;}
+.srp-hero img{height: 500px}
+a.pg-btn {color: #efefef; text-decoration: none;}
+
+.srp-page {margin: 8rem auto;}
+.srp-page-2 {margin: 5rem auto;}
+.srp-linklist {background: transparent; color: #efefef; padding: 5px 0; border: 1px solid #efefef}
+.text-underline {width: 5rem;}
+
+.srp-footer {background-color: #0b1431; color: #efefef; padding: 3rem 0;}
